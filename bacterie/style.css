@@ -1,0 +1,10 @@
+.allDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scatter, .line {
+  width: 900px;
+  height: 900px;
+}
