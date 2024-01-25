@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bacterix</title>
+    <link rel="stylesheet" href="style.css">
+    
+  </head>
+  <body>
+    <div class="allDiv">
+      <div class="scatter" >
+        <canvas id="myChart"></canvas>
+      </div>
+      <div class="line">
+        <canvas id="myChart2"></canvas>
+      </div>
+    </div>
+	<div class="Bact_cont">
+		<div class="Bact1">
+			<div class="id b1">
+				<img src="image/Icon_bact_1.png" class="im_b1"></img>
+			</div>
+			<button class="muta_bact1" onclick="MutationBact(0)">
+			Mutation
+			</button>
+			<select class="sel_bact1">
+			<option value="1" id="MuAb1B1">AB 1</option>
+			<option value="2" id="MuAb2B1">AB 2</option>
+			<option value="3" id="MuAb3B1">AB 3</option>
+			</select>
+			<div class="stat b1">
+				<p>Nb : <input id="nbi_bact3" value="50"></input></p>
+				<p>Muta : <p id="muta_bact1"></p></p>
+				<p>Taux de reproduction : <p id="th_bact1">24</p><input class="th_rep1" type="range" min="0" max="100" value="50"></input></p>
+			</div>
+		</div>
+		<div class="Bact2">
+			<div class="id b2">
+				<img src="image/Icon_bact_2.png" class="im_b1"></img>
+			</div>
+			<button class="add_bact2" onclick="addBact2()">
+			ADD
+			</button>
+			<button class="muta_bact2" onclick="MutationBact(1)">
+			Mutation
+			</button>
+			<select class="sel_bact2">
+			<option value="1" id="MuAb1B2">AB 1</option>
+			<option value="2" id="MuAb2B2">AB 2</option>
+			<option value="3" id="MuAb3B2">AB 3</option>
+			</select>
+			<div class="stat b2">
+				<p>Nb : <input id="nbi_bact3" value="50"></input></p>
+				<p>Muta : <p id="muta_bact2"></p></p>
+				<p>Taux de reproduction : <p id="th_bact2">36</p><input class="th_rep2" type="range" min="0" max="100" value="50"></input></p>
+			</div>
+		</div>
+		<div class="Bact3">
+			<div class="id b3">
+				<img src="image/Icon_bact_3.png" class="im_b1"></img>
+			</div>
+			<button class="add_bact3" onclick="addBact3()">
+			ADD
+			</button>
+			<button class="muta_bact3" onclick="MutationBact(2)">
+			Mutation
+			</button>
+			<select class="sel_bact3">
+			<option value="1" id="MuAb1B3">AB 1</option>
+			<option value="2" id="MuAb2B3">AB 2</option>
+			<option value="3" id="MuAb3B3">AB 3</option>
+			</select>
+			<div class="stat b3">
+				<p>Nb : <input id="nbi_bact3" value="50"></input></p>
+				<p>Muta : <p id="muta_bact3"></p></p>
+				<p>Taux de reproduction : <p id="th_bact3">27</p><input class="th_rep3" type="range" min="0" max="100" value="50"></input></p>
+			</div>
+		</div>
+	</div>
+	<div class="AB_cont">
+		<div class="AB1">
+			<div class="stats">
+				<p class="abtype c1">Type : 1</p>
+				<p class="abeff c2">Efficacité :<p class="value1">16</p><input type="range" min="0" max="100" class="in_eff1" value="16"></input></p>
+			</div>
+			<button class="add_AB add1" onclick="add_ab(1)" >Add</button>
+		</div>
+		<div class="AB2">
+			<div class="stats">
+				<p class="abtype c2">Type : 2</p>
+				<p class="abeff c2">Efficacité :<p class="value2">50</p><input type="range" min="0" max="100" class="in_eff2" value="50"></input></p>
+			</div>
+			<button class="add_AB add2" onclick="add_ab(2)">Add</button>
+		</div>
+		<div class="AB3">
+			<div class="stats">
+				<p class="abtype c3">Type : 3</p>
+				<p class="abeff c2">Efficacité :<p class="value3">61</p><input type="range" min="0" max="100" class="in_eff3" value="61"></input></p>
+			</div>
+			<button class="add_AB add3" onclick="add_ab(3)">Add</button>
+		</div>
+	</div>
+	<!--<div class="setting">
+	<button id="start_button" onclick="start()">START</button>
+	</div>-->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+  </body>
+</html>
