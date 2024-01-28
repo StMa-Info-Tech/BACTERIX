@@ -337,7 +337,7 @@ function Main(){
 		for(let Pop_Bact of ListBact_Tot){
 			for(let Bact of Pop_Bact){
 				for(let AB of AB_List){
-					if(!(AB in Bact.muta)){
+					if(!(AB.id in Bact.muta)){
 						if(randint(100)<AB.taux){
 							Bact.mort=1;
 							nb_bact_tot--
