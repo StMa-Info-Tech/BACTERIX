@@ -3,7 +3,7 @@
 (Read this document in [French](README_fr.md))
 
 <p align="center">
-  <img src="https://github.com/StMa-Info-Tech/BIBLIOTECH/blob/main/img_readme/fond.PNG" alt="Sublime's custom image"/>
+  <img src="https://github.com/StMa-Info-Tech/BACTERIX/blob/main/bacterix%202/image/BACTERIX_img.png" alt="Sublime's custom image"/>
 </p>
 
 ## Contents
