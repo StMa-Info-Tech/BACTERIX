@@ -31,7 +31,7 @@ Technologies and libraries used:
 ***
 This project was awarded the Prix du Lycée Général by the Académie des Sciences at the Institut de France in Paris in January 2024. 
 <p align="center">
-  <img src="https://github.com/StMa-Info-Tech/BACTERIX/blob/main/bacterix%202/image/1706205649210.jpeg" alt="award"/>
+  <img src="bacterix 2/1706205649210.jpeg" alt="award"/>
 </p>
 ## Conclusion
 ***
