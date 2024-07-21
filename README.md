@@ -9,8 +9,8 @@
 ## Contents
 1. [General information](#General-information)
 2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Awards and Honors](#user-manual)
+3. [Awards and Honors](#award)
+4. [Availability](#availability)
 5. [Conclusion](#Conclusion)
 ### General information
 ***
