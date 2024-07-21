@@ -20,12 +20,11 @@
 ## Technologies
 ***
 Technologies and libraries used:
-* [Python](https://www.python.org/): Version 3 / (programming language)
-* [SQLite](https://docs.python.org/3/library/sqlite3.html): Version 3 / (relational database reading library)
-* [isbnlib](https://pypi.org/project/isbnlib/): Version 3.10.14 / (Bibliographic data retrieval library)
-* [nfcpy](https://nfcpy.readthedocs.io/en/latest/): Version 1.0.4 / (NFC technology management library)
-* [PIL](https://pillow.readthedocs.io/en/stable/): Version 9.5.0 / (Image processing library) 
-* [datetime](https://docs.python.org/fr/3/library/datetime.html): Version 3.11.13 / (Time Data Recovery Library)
+* [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaS) (programming language)
+* [Chart.js](https://www.chartjs.org/docs/latest/) Version 4.4.3 / (charts library) https://datacorner.fr/wp-content/uploads/2017/04/chartjs.jpg
+* [HTML5](https://developer.mozilla.org/fr/docs/Glossary/HTML5) (web language)
+* [CSS3](https://developer.mozilla.org/fr/docs/Web/CSS/Reference) (web language)
+
 ## Installation
 ***
 Commands to run in a terminal (cmd for Windows or terminal for Linux) 
