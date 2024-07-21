@@ -30,8 +30,10 @@ Technologies and libraries used:
 ## Awards and Honors
 ***
 This project was awarded the Prix du Lycée Général by the Académie des Sciences at the Institut de France in Paris in January 2024. 
+<p align="center">
+  <img src="https://github.com/StMa-Info-Tech/BACTERIX/blob/main/bacterix%202/image/1706205649210.jpeg" alt="award"/>
+</p>
 ## Conclusion
 ***
-This software was created by a group of 4 students from the Lycée Sainte-Marie de Caen in Normandy, **Jules GUILLLAUME (@slzr23), Thomas GRUDE (@MasakiTadasho), Lucie SIROT-BOCQUET and Auxane SALMERO (@AwellTv)**
-
-It is now submitted to the **Trophée NSI**.
+This software has been created by a group of students from the Lycée Sainte-Marie in Caen in Normandy. If you want to contact us : 
+* slzr.tech@gmail.com
