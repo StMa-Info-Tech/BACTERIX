@@ -18,9 +18,6 @@
 ### BACTERIX interface
 ![BACTERIX](https://github.com/StMa-Info-Tech/BACTERIX/blob/main/bacterix%202/image/interface.jpeg)
 
-<video width="640" height="360" controls>
-    <source src="bacterix 2/image/bacterix_video.mp4" type="video/mp4">
-</video>
 ## Technologies
 ***
 Technologies and libraries used:
@@ -37,6 +34,7 @@ This project was awarded the Prix du Lycée Général by the Académie des Scien
 <p align="center">
   <img src="bacterix 2/1706205649210.jpeg" alt="award"/>
 </p>
+
 ## Conclusion
 ***
 This software has been created by a group of students from the Lycée Sainte-Marie in Caen in Normandy. If you want to contact us : 
