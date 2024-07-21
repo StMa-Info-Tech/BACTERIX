@@ -16,12 +16,12 @@
 ***
 **BACTERIX is bacterial growth modeling software. This software has been created to help students at Sainte-Marie highschool to understand how a bacterial culture evolves over time, through a simulation in which it is possible to manage certain parameters such as adding an anti-biotic or creating a mutation.**.
 ### BACTERIX interface
-![Image text](https://github.com/StMa-Info-Tech/BACTERIX/blob/main/bacterix%202/image/interface.jpeg)
+![BACTERIX](https://github.com/StMa-Info-Tech/BACTERIX/blob/main/bacterix%202/image/interface.jpeg)
 ## Technologies
 ***
 Technologies and libraries used:
 * [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaS) (programming language) 
-* [Chart.js](https://www.chartjs.org/docs/latest/) Version 4.4.3 / (charts library) https://datacorner.fr/wp-content/uploads/2017/04/chartjs.jpg
+* [Chart.js](https://www.chartjs.org/docs/latest/) Version 4.4.3 / (charts library)
 * [HTML5](https://developer.mozilla.org/fr/docs/Glossary/HTML5) (web language) 
 * [CSS3](https://developer.mozilla.org/fr/docs/Web/CSS/Reference) (web language) 
 
