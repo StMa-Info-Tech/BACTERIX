@@ -3,20 +3,22 @@
 (Read this document in [French](README_fr.md))
 
 <p align="center">
-  <img src="https://github.com/StMa-Info-Tech/BACTERIX/blob/main/bacterix%202/image/BACTERIX_img.png" alt="Sublime's custom image"/>
+  <img src="https://github.com/StMa-Info-Tech/BACTERIX/blob/main/bacterix%202/image/BACTERIX_img.png" alt="title"/>
 </p>
 
 ## Contents
 1. [General information](#General-information)
 2. [Technologies](#technologies)
 3. [Awards and Honors](#Awards-and-Honors)
-4. [Availability](#availability)
+4. [Availability](#Availability)
 5. [Conclusion](#Conclusion)
 ### General information
 ***
 **BACTERIX is bacterial growth modeling software. This software has been created to help students at Sainte-Marie highschool to understand how a bacterial culture evolves over time, through a simulation in which it is possible to manage certain parameters such as adding an anti-biotic or creating a mutation.**.
 ### BACTERIX interface
-![BACTERIX](https://github.com/StMa-Info-Tech/BACTERIX/blob/main/bacterix%202/image/interface.jpeg)
+<p align="center">
+  <img src="https://github.com/StMa-Info-Tech/BACTERIX/blob/main/bacterix%202/image/interface.jpeg" alt="interface"/>
+</p>
 
 ## Technologies
 ***
@@ -30,12 +32,16 @@ Technologies and libraries used:
 
 ## Awards and Honors
 ***
-This project was awarded the Prix du Lycée Général by the Académie des Sciences at the Institut de France in Paris in January 2024. 
+This project was awarded **the Prix du Lycée Général by the Académie des Sciences at the Institut de France in Paris in 2023.** 
 <p align="center">
   <img src="bacterix 2/1706205649210.jpeg" alt="award"/>
 </p>
 
+## Availability
+***
+You can see the project working [here](url)
+
 ## Conclusion
 ***
 This software has been created by a group of students from the Lycée Sainte-Marie in Caen in Normandy. If you want to contact us : 
-* slzr.tech@gmail.com
+**slzr.tech@gmail.com**
