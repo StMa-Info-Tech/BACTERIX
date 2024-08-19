@@ -1,7 +1,5 @@
 ## 🦠 BACTERIX 🦠
 
-(Read this document in [French](README_fr.md))
-
 <p align="center">
   <img src="https://github.com/StMa-Info-Tech/BACTERIX/blob/main/bacterix%202/image/BACTERIX_img.png" alt="title"/>
 </p>
